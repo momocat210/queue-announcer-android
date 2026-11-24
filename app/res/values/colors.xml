@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgTop">#0E1626</color>
+    <color name="bgBottom">#05070F</color>
+    <color name="bgDark">#070A14</color>
+    <color name="txt">#EEF2FF</color>
+    <color name="txtDim">#8B95B2</color>
+    <color name="txtDim2">#6B7593</color>
+    <color name="amber">#FFB648</color>
+    <color name="amber2">#FF7A2F</color>
+    <color name="teal">#41E0A3</color>
+    <color name="teal2">#12B981</color>
+    <color name="tealDark">#06251C</color>
+    <color name="iconBg">#0B1020</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">叫号系统</string>
+    <string name="settings">播报设置</string>
+    <string name="next">下一个</string>
+    <string name="replay">重播</string>
+    <string name="prev">上一个</string>
+    <string name="reset">重置</string>
+    <string name="done">完成</string>
+    <string name="test">试听当前号码</string>
+    <string name="defaults">恢复默认</string>
+</resources>
